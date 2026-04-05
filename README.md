@@ -5,7 +5,7 @@
 This project is a single-page resume application built using Next.js and styled with Tailwind CSS. The goal was to transition a traditional resume into a modern web framework while maintaining HTML structure and professional design standards.
 
 
-## Features & Implementation (MVP Checklist)
+## Features & Implementation 
 - [x] **Next.js Scaffold:** Project initialized using `create-next-app` with Tailwind CSS integration.
 - [x] **Resume Content:** Professional work including experience at DSC and HCP Associates.
 - [x] **Semantic HTML:** Used `<header>`, `<main>`, `<section>`, `<article>`, and `<footer>` for accessibility.
